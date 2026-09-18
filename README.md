@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Van Nguyen 👋
 
-<!--
-**vannt-dev/vannt-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack & AI Agent Engineer
 
-Here are some ideas to get you started:
+I'm a software engineer focused on building open-source AI agents,
+developer tools, and reliable AI-assisted engineering workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+- 🤖 AI Agents & Agentic Workflows
+- 🧠 LLM Tool Use & Multi-Agent Systems
+- 🔌 MCP & AI Developer Tools
+- ⚙️ Full-stack Engineering
+- 🧪 AI Evaluation & Quality Gates
+
+## 🚀 Featured Projects
+
+### Junto
+
+Durable workflow orchestration for AI coding agents.
+
+Plan → Human Approval → Execute → Review → Verify → Evidence
+
+### AI Engineering Skills
+
+Portable engineering skills for AI coding agents.
+
+Supports:
+
+- Claude Code
+- OpenAI Codex
+- OpenCode
+- Google Antigravity
+
+### Dynamic Field Kit
+
+Schema-driven form engine for:
+
+React • Vue • Angular
+
+## 🛠 Tech Stack
+
+TypeScript • React • Next.js • Node.js • NestJS
+
+Python • MySQL • PostgreSQL • Redis
+
+Docker • GitHub Actions
+
+AI Agents • MCP • LLM Tool Calling
+
+---
+
+Building open-source tools for better AI-assisted software engineering.
