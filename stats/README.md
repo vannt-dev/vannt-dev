@@ -1,6 +1,6 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:06 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:25 UTC.
 
 **Total downloads: 10,750** (npm + PyPI + GitHub release assets).
 
@@ -15,6 +15,7 @@ Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last
 | [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 25 | — |
 | [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 17 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 2 | — |
+| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 0 | 0 |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 0 | — |
 | [openapi-postman-test-generator](https://github.com/vannt-dev/openapi-postman-test-generator/releases) | GitHub Releases | 0 | — |
 

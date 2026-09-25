@@ -37,6 +37,13 @@
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
+      "source": "npm",
+      "name": "md-pdf-studio",
+      "total": 0,
+      "last30": 0,
+      "url": "https://www.npmjs.com/package/md-pdf-studio"
+    },
+    {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
       "total": 793,

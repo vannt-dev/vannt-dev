@@ -4,9 +4,12 @@
     "@dynamic-field-kit/react",
     "@dynamic-field-kit/vue",
     "@dynamic-field-kit/angular",
-    "openapi-postman-test-generator"
+    "openapi-postman-test-generator",
+    "md-pdf-studio"
   ],
-  "pypi": ["governed-agent-sdlc"],
+  "pypi": [
+    "governed-agent-sdlc"
+  ],
   "githubReleases": [
     "vannt-dev/aegis-net",
     "vannt-dev/nimbleclip",
@@ -15,7 +18,13 @@
     "vannt-dev/openapi-postman-test-generator"
   ],
   "chromeWebStore": [
-    { "name": "Network Overrides", "id": "holdjgmcnpelgclhopiejilhhkfcmpba" },
-    { "name": "Markdown to PDF", "id": "djikikejkmkklfeklfmddaadilhahamj" }
+    {
+      "name": "Network Overrides",
+      "id": "holdjgmcnpelgclhopiejilhhkfcmpba"
+    },
+    {
+      "name": "Markdown to PDF",
+      "id": "djikikejkmkklfeklfmddaadilhahamj"
+    }
   ]
 }

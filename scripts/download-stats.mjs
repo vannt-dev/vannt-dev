@@ -16,10 +16,16 @@ const day = (d) => d.toISOString().slice(0, 10)
 const today = new Date()
 const since30 = day(new Date(today.getTime() - 30 * 86400000))
 
-async function getJson(url, headers = {}) {
+// Returns null on 404 when allowMissing is set: npm and pypistats have no data for a package
+// until it has been downloaded after publishing.
+async function getJson(url, headers = {}, allowMissing = false) {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(url, { headers: { "user-agent": "vannt-dev-download-stats", ...headers } })
     if (res.ok) return res.json()
+    if (res.status === 404 && allowMissing) {
+      console.warn(`${url}: no data yet`)
+      return null
+    }
     if (attempt >= 3 || res.status < 500) throw new Error(`${url}: HTTP ${res.status}`)
     await new Promise((r) => setTimeout(r, 2000 * attempt))
   }
@@ -35,14 +41,14 @@ const sum = (series, from = "") => Object.entries(series ?? {}).reduce((n, [d, c
 // npm: the range endpoint serves at most 18 months per request.
 const npmStart = day(new Date(today.getTime() - 540 * 86400000))
 for (const name of sources.npm) {
-  const data = await getJson(`https://api.npmjs.org/downloads/range/${npmStart}:${day(today)}/${name}`)
-  merge(history.npm, name, data.downloads.map((d) => [d.day, d.downloads]))
+  const data = await getJson(`https://api.npmjs.org/downloads/range/${npmStart}:${day(today)}/${name}`, {}, true)
+  merge(history.npm, name, (data?.downloads ?? []).map((d) => [d.day, d.downloads]))
 }
 
 // PyPI: pypistats keeps 180 days. "with_mirrors" matches what pepy.tech badges show.
 for (const name of sources.pypi) {
-  const data = await getJson(`https://pypistats.org/api/packages/${name}/overall?mirrors=true`)
-  merge(history.pypi, name, data.data.filter((d) => d.category === "with_mirrors").map((d) => [d.date, d.downloads]))
+  const data = await getJson(`https://pypistats.org/api/packages/${name}/overall?mirrors=true`, {}, true)
+  merge(history.pypi, name, (data?.data ?? []).filter((d) => d.category === "with_mirrors").map((d) => [d.date, d.downloads]))
 }
 
 // GitHub Releases: asset counters are cumulative, so no history is needed.
