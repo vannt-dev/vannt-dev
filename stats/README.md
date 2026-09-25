@@ -1,6 +1,6 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:28 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:55 UTC.
 
 **Total downloads: 10,750** (npm + PyPI + GitHub release assets).
 
@@ -28,6 +28,7 @@ Weekly active users as shown on the store listing (not downloads, so not part of
 | --- | ---: |
 | [Network Overrides](https://chromewebstore.google.com/detail/holdjgmcnpelgclhopiejilhhkfcmpba) | 75 |
 | [Markdown to PDF](https://chromewebstore.google.com/detail/djikikejkmkklfeklfmddaadilhahamj) | 17 |
+| [Region Snap](https://chromewebstore.google.com/detail/gdcpiocagphfbomdokhfomjnecnjfcon) | not shown yet |
 
 npm and PyPI counts include CI and mirror downloads. Their APIs keep 18 months and 180 days of data;
 `history.json` keeps every day once collected, so totals keep growing past those windows.

@@ -69,7 +69,8 @@ const chrome = []
 for (const ext of sources.chromeWebStore) {
   try {
     const data = await getJson(`https://img.shields.io/chrome-web-store/users/${ext.id}.json`)
-    chrome.push({ ...ext, users: data.value })
+    // A new listing shows no user count yet, and shields.io then answers "not found".
+    chrome.push({ ...ext, users: /^\d/.test(data.value ?? "") ? data.value : "not shown yet" })
   } catch (error) {
     chrome.push({ ...ext, users: "n/a" })
     console.warn(error.message)
