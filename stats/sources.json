@@ -15,7 +15,8 @@
     "vannt-dev/nimbleclip",
     "vannt-dev/region-snap",
     "vannt-dev/network-overrides-devtools",
-    "vannt-dev/openapi-postman-test-generator"
+    "vannt-dev/openapi-postman-test-generator",
+    "vannt-dev/convert-md-to-pdf"
   ],
   "chromeWebStore": [
     {

@@ -1,6 +1,6 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:25 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:28 UTC.
 
 **Total downloads: 10,750** (npm + PyPI + GitHub release assets).
 
@@ -18,6 +18,7 @@ Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last
 | [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 0 | 0 |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 0 | — |
 | [openapi-postman-test-generator](https://github.com/vannt-dev/openapi-postman-test-generator/releases) | GitHub Releases | 0 | — |
+| [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 0 | — |
 
 ## Chrome Web Store
 

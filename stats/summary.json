@@ -84,6 +84,13 @@
       "total": 0,
       "last30": null,
       "url": "https://github.com/vannt-dev/openapi-postman-test-generator/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "convert-md-to-pdf",
+      "total": 0,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     }
   ],
   "chromeWebStore": [
