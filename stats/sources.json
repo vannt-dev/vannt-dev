@@ -1,0 +1,21 @@
+{
+  "npm": [
+    "@dynamic-field-kit/core",
+    "@dynamic-field-kit/react",
+    "@dynamic-field-kit/vue",
+    "@dynamic-field-kit/angular",
+    "openapi-postman-test-generator"
+  ],
+  "pypi": ["governed-agent-sdlc"],
+  "githubReleases": [
+    "vannt-dev/aegis-net",
+    "vannt-dev/nimbleclip",
+    "vannt-dev/region-snap",
+    "vannt-dev/network-overrides-devtools",
+    "vannt-dev/openapi-postman-test-generator"
+  ],
+  "chromeWebStore": [
+    { "name": "Network Overrides", "id": "holdjgmcnpelgclhopiejilhhkfcmpba" },
+    { "name": "Markdown to PDF", "id": "djikikejkmkklfeklfmddaadilhahamj" }
+  ]
+}

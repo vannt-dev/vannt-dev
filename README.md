@@ -5,6 +5,9 @@
 I build open-source tools that make AI-assisted software engineering reliable: workflow
 orchestration and governance for coding agents, portable agent skills, and AI-powered testing tools.
 
+[![Total downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvannt-dev%2Fvannt-dev%2Fmain%2Fstats%2Fbadge.json&label=total%20downloads)](https://github.com/vannt-dev/vannt-dev/blob/main/stats/README.md)
+· [download stats per package](https://github.com/vannt-dev/vannt-dev/blob/main/stats/README.md)
+
 ## 🤖 AI coding agents
 
 | Project | What it does | Get it |

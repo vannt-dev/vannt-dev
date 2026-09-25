@@ -1,0 +1,94 @@
+{
+  "total": 10750,
+  "packages": [
+    {
+      "source": "npm",
+      "name": "@dynamic-field-kit/core",
+      "total": 3037,
+      "last30": 680,
+      "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
+    },
+    {
+      "source": "npm",
+      "name": "@dynamic-field-kit/react",
+      "total": 2540,
+      "last30": 578,
+      "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
+    },
+    {
+      "source": "npm",
+      "name": "@dynamic-field-kit/vue",
+      "total": 1736,
+      "last30": 584,
+      "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
+    },
+    {
+      "source": "npm",
+      "name": "@dynamic-field-kit/angular",
+      "total": 2545,
+      "last30": 585,
+      "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
+    },
+    {
+      "source": "npm",
+      "name": "openapi-postman-test-generator",
+      "total": 55,
+      "last30": 55,
+      "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
+    },
+    {
+      "source": "PyPI",
+      "name": "governed-agent-sdlc",
+      "total": 793,
+      "last30": 793,
+      "url": "https://pypi.org/project/governed-agent-sdlc/"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "aegis-net",
+      "total": 25,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/aegis-net/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "nimbleclip",
+      "total": 17,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/nimbleclip/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "region-snap",
+      "total": 0,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/region-snap/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "network-overrides-devtools",
+      "total": 2,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "openapi-postman-test-generator",
+      "total": 0,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/openapi-postman-test-generator/releases"
+    }
+  ],
+  "chromeWebStore": [
+    {
+      "name": "Network Overrides",
+      "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
+      "users": "75"
+    },
+    {
+      "name": "Markdown to PDF",
+      "id": "djikikejkmkklfeklfmddaadilhahamj",
+      "users": "17"
+    }
+  ]
+}
