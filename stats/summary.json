@@ -1,39 +1,39 @@
 {
-  "total": 10750,
+  "total": 10968,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3037,
-      "last30": 680,
+      "total": 3041,
+      "last30": 683,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2540,
-      "last30": 578,
+      "total": 2543,
+      "last30": 580,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1736,
-      "last30": 584,
+      "total": 1737,
+      "last30": 576,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2545,
-      "last30": 585,
+      "total": 2546,
+      "last30": 575,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 55,
-      "last30": 55,
+      "total": 210,
+      "last30": 210,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
@@ -46,8 +46,8 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 793,
-      "last30": 793,
+      "total": 847,
+      "last30": 847,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {

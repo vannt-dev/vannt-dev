@@ -1,17 +1,17 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-25 15:55 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-26 07:40 UTC.
 
-**Total downloads: 10,750** (npm + PyPI + GitHub release assets).
+**Total downloads: 10,968** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
-| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,037 | 680 |
-| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,545 | 585 |
-| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,540 | 578 |
-| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,736 | 584 |
-| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 793 | 793 |
-| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 55 | 55 |
+| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,041 | 683 |
+| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,546 | 575 |
+| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,543 | 580 |
+| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,737 | 576 |
+| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 847 | 847 |
+| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 210 | 210 |
 | [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 25 | — |
 | [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 17 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 2 | — |
