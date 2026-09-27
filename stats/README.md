@@ -1,21 +1,22 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-27 08:09 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-27 14:54 UTC.
 
-**Total downloads: 11,320** (npm + PyPI + GitHub release assets).
+**Total downloads: 11,367** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
-| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,047 | 684 |
-| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,551 | 577 |
-| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,548 | 582 |
-| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,743 | 578 |
+| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,053 | 690 |
+| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,557 | 583 |
+| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,554 | 588 |
+| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,751 | 586 |
 | [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 890 | 890 |
-| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 370 | 370 |
-| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 126 | 126 |
+| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 377 | 377 |
+| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 140 | 140 |
 | [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 25 | — |
 | [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 18 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 2 | — |
+| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 0 | 0 |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 0 | — |
 | [openapi-postman-test-generator](https://github.com/vannt-dev/openapi-postman-test-generator/releases) | GitHub Releases | 0 | — |
 | [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 0 | — |
