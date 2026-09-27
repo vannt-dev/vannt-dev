@@ -26,8 +26,9 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 
 ## 🛠 Developer tools & apps
 
+- [**repokeeper**](https://github.com/vannt-dev/repokeeper) — one CLI that keeps every repository on the same standard: Conventional Commits, git hooks, CI and release-please for Node, Python, Dart, shell/PowerShell, Java and .NET, plus GitHub settings as code. [npm](https://www.npmjs.com/package/repokeeper)
 - [**Network Overrides**](https://github.com/vannt-dev/network-overrides-devtools) — mock API responses, inject headers and simulate failures inside Chrome DevTools. [Chrome Web Store](https://chromewebstore.google.com/detail/network-overrides-api-dev/holdjgmcnpelgclhopiejilhhkfcmpba)
-- [**Markdown to PDF**](https://github.com/vannt-dev/convert-md-to-pdf) — CLI and Chrome extension for styled PDFs with Mermaid, LaTeX and themes. [Chrome Web Store](https://chromewebstore.google.com/detail/markdown-to-pdf-converter/djikikejkmkklfeklfmddaadilhahamj)
+- [**Markdown to PDF**](https://github.com/vannt-dev/convert-md-to-pdf) — CLI and Chrome extension for styled PDFs with Mermaid, LaTeX and themes. [npm](https://www.npmjs.com/package/md-pdf-studio) · [Chrome Web Store](https://chromewebstore.google.com/detail/markdown-to-pdf-converter/djikikejkmkklfeklfmddaadilhahamj)
 - [**Region Snap**](https://github.com/vannt-dev/region-snap) — capture an exact region of a live page as a local PNG. [Chrome Web Store](https://chromewebstore.google.com/detail/region-snap-interactive-s/gdcpiocagphfbomdokhfomjnecnjfcon)
 - [**Dynamic Field Kit**](https://github.com/vannt-dev/dynamic-field-kit) — schema-driven dynamic form engine for React, Vue and Angular.
 - [**Aegis Net**](https://github.com/vannt-dev/aegis-net) — DNS privacy guard and ad blocker for Android & iOS (Flutter + Rust).

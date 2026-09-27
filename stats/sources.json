@@ -5,7 +5,8 @@
     "@dynamic-field-kit/vue",
     "@dynamic-field-kit/angular",
     "openapi-postman-test-generator",
-    "md-pdf-studio"
+    "md-pdf-studio",
+    "repokeeper"
   ],
   "pypi": [
     "governed-agent-sdlc"
