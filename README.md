@@ -13,6 +13,7 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 | Project | What it does | Get it |
 | --- | --- | --- |
 | [**Junto**](https://github.com/vannt-dev/junto) | Durable workflow orchestration for AI coding agents: plan → human approval → execute → review → verify, with verifiable evidence. | Claude Code plugin |
+| [**AIWS — AI Software Factory**](https://github.com/vannt-dev/aiws-factory) | Turns a requirement into tested code through gated phases: analysis → design + test spec → human approval → implementation with unit tests → review → PR. | [Site](https://vannt-dev.github.io/aiws-factory/) |
 | [**governed-agent-sdlc**](https://github.com/vannt-dev/governed-agent-sdlc) | Governance toolkit for AI coding agents: policies, review gates, human approval and an audit trail. | [PyPI](https://pypi.org/project/governed-agent-sdlc/) |
 | [**AI Engineering Skills**](https://github.com/vannt-dev/ai-engineering-skills) | 15 portable engineering skills for Claude Code, Codex, OpenCode and Google Antigravity. | [Site](https://vannt-dev.github.io/ai-engineering-skills/) |
 | [**token-efficient-work**](https://github.com/vannt-dev/token-efficient-work) | A skill + instruction hooks that stop coding agents from wasting tokens on redundant reads, re-checks and long output. | [Site](https://vannt-dev.github.io/token-efficient-work/) |
