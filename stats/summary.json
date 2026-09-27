@@ -1,53 +1,53 @@
 {
-  "total": 10968,
+  "total": 11320,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3041,
-      "last30": 683,
+      "total": 3047,
+      "last30": 684,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2543,
-      "last30": 580,
+      "total": 2548,
+      "last30": 582,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1737,
-      "last30": 576,
+      "total": 1743,
+      "last30": 578,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2546,
-      "last30": 575,
+      "total": 2551,
+      "last30": 577,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 210,
-      "last30": 210,
+      "total": 370,
+      "last30": 370,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 0,
-      "last30": 0,
+      "total": 126,
+      "last30": 126,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 847,
-      "last30": 847,
+      "total": 890,
+      "last30": 890,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -60,7 +60,7 @@
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 17,
+      "total": 18,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -97,17 +97,17 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "75"
+      "users": "84"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "17"
+      "users": "23"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "not shown yet"
+      "users": "3"
     }
   ]
 }
