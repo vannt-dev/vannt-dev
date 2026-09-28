@@ -1,32 +1,32 @@
 {
-  "total": 11367,
+  "total": 11390,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3053,
-      "last30": 690,
+      "last30": 689,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
       "total": 2554,
-      "last30": 588,
+      "last30": 587,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
       "total": 1751,
-      "last30": 586,
+      "last30": 585,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 2557,
-      "last30": 583,
+      "last30": 582,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
@@ -53,8 +53,8 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 890,
-      "last30": 890,
+      "total": 913,
+      "last30": 913,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -109,12 +109,12 @@
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "23"
+      "users": "21"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     }
   ]
 }
