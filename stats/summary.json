@@ -1,60 +1,60 @@
 {
-  "total": 11390,
+  "total": 12426,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3053,
-      "last30": 689,
+      "total": 3090,
+      "last30": 705,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2554,
-      "last30": 587,
+      "total": 2596,
+      "last30": 591,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1751,
-      "last30": 585,
+      "total": 1756,
+      "last30": 589,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2557,
-      "last30": 582,
+      "total": 2566,
+      "last30": 588,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 377,
-      "last30": 377,
+      "total": 384,
+      "last30": 384,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 140,
-      "last30": 140,
+      "total": 155,
+      "last30": 155,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 0,
-      "last30": 0,
+      "total": 900,
+      "last30": 900,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 913,
-      "last30": 913,
+      "total": 930,
+      "last30": 930,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -74,7 +74,7 @@
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 0,
+      "total": 2,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
@@ -88,7 +88,7 @@
     {
       "source": "GitHub Releases",
       "name": "openapi-postman-test-generator",
-      "total": 0,
+      "total": 2,
       "last30": null,
       "url": "https://github.com/vannt-dev/openapi-postman-test-generator/releases"
     },
