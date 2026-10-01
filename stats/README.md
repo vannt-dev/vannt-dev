@@ -1,19 +1,19 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-09-30 08:33 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-01 08:56 UTC.
 
-**Total downloads: 13,334** (npm + PyPI + GitHub release assets).
+**Total downloads: 13,842** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
-| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,105 | 387 |
-| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,609 | 318 |
-| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,576 | 314 |
-| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,767 | 304 |
-| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 1,574 | 1,574 |
-| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 952 | 952 |
-| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 391 | 391 |
-| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 311 | 311 |
+| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,105 | 348 |
+| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,611 | 289 |
+| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,576 | 285 |
+| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 1,855 | 1,855 |
+| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,767 | 277 |
+| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 975 | 975 |
+| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 574 | 574 |
+| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 330 | 330 |
 | [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 25 | — |
 | [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 18 | — |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 2 | — |

@@ -1,60 +1,60 @@
 {
-  "total": 13334,
+  "total": 13842,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3105,
-      "last30": 387,
+      "last30": 348,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2609,
-      "last30": 318,
+      "total": 2611,
+      "last30": 289,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
       "total": 1767,
-      "last30": 304,
+      "last30": 277,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 2576,
-      "last30": 314,
+      "last30": 285,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 391,
-      "last30": 391,
+      "total": 574,
+      "last30": 574,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 311,
-      "last30": 311,
+      "total": 330,
+      "last30": 330,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 1574,
-      "last30": 1574,
+      "total": 1855,
+      "last30": 1855,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 952,
-      "last30": 952,
+      "total": 975,
+      "last30": 975,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
