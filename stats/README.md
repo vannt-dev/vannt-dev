@@ -1,17 +1,17 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-03 08:05 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-04 08:26 UTC.
 
-**Total downloads: 14,275** (npm + PyPI + GitHub release assets).
+**Total downloads: 14,339** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
 | [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,106 | 328 |
 | [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 2,618 | 277 |
 | [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,582 | 273 |
-| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 2,207 | 2,207 |
+| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 2,261 | 2,261 |
 | [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,773 | 266 |
-| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 996 | 996 |
+| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 1,006 | 1,006 |
 | [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 589 | 589 |
 | [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 345 | 345 |
 | [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 26 | — |

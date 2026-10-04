@@ -1,5 +1,5 @@
 {
-  "total": 14275,
+  "total": 14339,
   "packages": [
     {
       "source": "npm",
@@ -46,15 +46,15 @@
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 2207,
-      "last30": 2207,
+      "total": 2261,
+      "last30": 2261,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 996,
-      "last30": 996,
+      "total": 1006,
+      "last30": 1006,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
