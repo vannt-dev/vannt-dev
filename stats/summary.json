@@ -1,60 +1,60 @@
 {
-  "total": 14419,
+  "total": 14618,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3108,
-      "last30": 168,
+      "total": 3135,
+      "last30": 140,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2619,
-      "last30": 135,
+      "total": 2620,
+      "last30": 116,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1774,
-      "last30": 126,
+      "total": 1778,
+      "last30": 106,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2585,
-      "last30": 136,
+      "total": 2586,
+      "last30": 113,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 601,
-      "last30": 601,
+      "total": 620,
+      "last30": 620,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 366,
-      "last30": 366,
+      "total": 472,
+      "last30": 472,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 2282,
-      "last30": 2282,
+      "total": 2304,
+      "last30": 2304,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 1024,
-      "last30": 1024,
+      "total": 1040,
+      "last30": 1040,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -74,14 +74,14 @@
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 3,
+      "total": 4,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 2,
+      "total": 3,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -95,7 +95,7 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 2,
+      "total": 3,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     }
