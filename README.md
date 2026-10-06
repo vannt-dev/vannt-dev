@@ -33,7 +33,7 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 - [**Region Snap**](https://github.com/vannt-dev/region-snap) — capture an exact region of a live page as a local PNG. [Chrome Web Store](https://chromewebstore.google.com/detail/region-snap-interactive-s/gdcpiocagphfbomdokhfomjnecnjfcon)
 - [**Dynamic Field Kit**](https://github.com/vannt-dev/dynamic-field-kit) — schema-driven dynamic form engine for React, Vue and Angular.
 - [**Aegis Net**](https://github.com/vannt-dev/aegis-net) — DNS privacy guard and ad blocker for Android & iOS (Flutter + Rust).
-- [**NimbleClip**](https://github.com/vannt-dev/nimbleclip) — cross-platform Flutter app for downloading public video and audio.
+- [**NimbleClip**](https://github.com/vannt-dev/nimbleclip) — cross-platform Flutter app for downloading public videos, pictures and audio from YouTube, TikTok, Facebook, Instagram, X and Threads.
 
 ## Tech stack
 
