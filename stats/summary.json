@@ -1,60 +1,60 @@
 {
-  "total": 14618,
+  "total": 15397,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3135,
-      "last30": 140,
+      "total": 3341,
+      "last30": 324,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2620,
-      "last30": 116,
+      "total": 2810,
+      "last30": 281,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1778,
-      "last30": 106,
+      "total": 1939,
+      "last30": 245,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2586,
-      "last30": 113,
+      "total": 2763,
+      "last30": 267,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 620,
-      "last30": 620,
+      "total": 622,
+      "last30": 622,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 472,
-      "last30": 472,
+      "total": 476,
+      "last30": 476,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 2304,
-      "last30": 2304,
+      "total": 2310,
+      "last30": 2310,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 1040,
-      "last30": 1040,
+      "total": 1069,
+      "last30": 1069,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -67,7 +67,7 @@
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 24,
+      "total": 28,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
