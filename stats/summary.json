@@ -1,5 +1,5 @@
 {
-  "total": 15397,
+  "total": 15415,
   "packages": [
     {
       "source": "npm",
@@ -53,21 +53,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 1069,
-      "last30": 1069,
+      "total": 1085,
+      "last30": 1085,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 27,
+      "total": 28,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 28,
+      "total": 29,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -104,7 +104,7 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "91"
+      "users": "89"
     },
     {
       "name": "Markdown to PDF",

@@ -1,8 +1,8 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-07 08:38 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-08 08:57 UTC.
 
-**Total downloads: 15,397** (npm + PyPI + GitHub release assets).
+**Total downloads: 15,415** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
@@ -11,11 +11,11 @@ Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last
 | [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 2,763 | 267 |
 | [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 2,310 | 2,310 |
 | [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 1,939 | 245 |
-| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 1,069 | 1,069 |
+| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 1,085 | 1,085 |
 | [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 622 | 622 |
 | [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 476 | 476 |
-| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 28 | — |
-| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 27 | — |
+| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 29 | — |
+| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 28 | — |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 4 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 3 | — |
 | [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 3 | — |
@@ -27,7 +27,7 @@ Weekly active users as shown on the store listing (not downloads, so not part of
 
 | Extension | Users |
 | --- | ---: |
-| [Network Overrides](https://chromewebstore.google.com/detail/holdjgmcnpelgclhopiejilhhkfcmpba) | 91 |
+| [Network Overrides](https://chromewebstore.google.com/detail/holdjgmcnpelgclhopiejilhhkfcmpba) | 89 |
 | [Markdown to PDF](https://chromewebstore.google.com/detail/djikikejkmkklfeklfmddaadilhahamj) | 27 |
 | [Region Snap](https://chromewebstore.google.com/detail/gdcpiocagphfbomdokhfomjnecnjfcon) | not shown yet |
 
