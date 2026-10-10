@@ -1,60 +1,60 @@
 {
-  "total": 15500,
+  "total": 16282,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3351,
-      "last30": 334,
+      "total": 3532,
+      "last30": 505,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 2817,
-      "last30": 288,
+      "total": 2956,
+      "last30": 416,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 1951,
-      "last30": 257,
+      "total": 2094,
+      "last30": 392,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 2770,
-      "last30": 274,
+      "total": 2914,
+      "last30": 407,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 627,
-      "last30": 627,
+      "total": 628,
+      "last30": 604,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 481,
-      "last30": 481,
+      "total": 641,
+      "last30": 641,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 2336,
-      "last30": 2336,
+      "total": 2338,
+      "last30": 2338,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 1091,
-      "last30": 1091,
+      "total": 1102,
+      "last30": 1102,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -74,7 +74,7 @@
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 4,
+      "total": 5,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
@@ -104,17 +104,17 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "92"
+      "users": "101"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "30"
+      "users": "32"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "not shown yet"
+      "users": "1"
     }
   ]
 }
