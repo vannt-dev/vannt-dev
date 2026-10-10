@@ -4,6 +4,7 @@
     "@dynamic-field-kit/react",
     "@dynamic-field-kit/vue",
     "@dynamic-field-kit/angular",
+    "@dynamic-field-kit/svelte",
     "openapi-postman-test-generator",
     "md-pdf-studio",
     "repokeeper"
@@ -17,7 +18,8 @@
     "vannt-dev/region-snap",
     "vannt-dev/network-overrides-devtools",
     "vannt-dev/openapi-postman-test-generator",
-    "vannt-dev/convert-md-to-pdf"
+    "vannt-dev/convert-md-to-pdf",
+    "vannt-dev/browser-extension"
   ],
   "chromeWebStore": [
     {

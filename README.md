@@ -17,23 +17,25 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 | [**governed-agent-sdlc**](https://github.com/vannt-dev/governed-agent-sdlc) | Governance toolkit for AI coding agents: policies, review gates, human approval and an audit trail. | [PyPI](https://pypi.org/project/governed-agent-sdlc/) |
 | [**AI Engineering Skills**](https://github.com/vannt-dev/ai-engineering-skills) | 15 portable engineering skills for Claude Code, Codex, OpenCode and Google Antigravity. | [Site](https://vannt-dev.github.io/ai-engineering-skills/) |
 | [**token-efficient-work**](https://github.com/vannt-dev/token-efficient-work) | A skill + instruction hooks that stop coding agents from wasting tokens on redundant reads, re-checks and long output. | [Site](https://vannt-dev.github.io/token-efficient-work/) |
+| [**Document Reader Skill**](https://github.com/vannt-dev/document-reader-skill-ai) | A skill that reads the requirement documents in a local folder selectively, then updates the project's code and tests to match. For Codex, Claude Code and Gemini CLI. | [Releases](https://github.com/vannt-dev/document-reader-skill-ai/releases) |
 
 ## 🧪 AI for testing
 
 | Project | What it does | Get it |
 | --- | --- | --- |
-| [**openapi-postman-test-generator**](https://github.com/vannt-dev/openapi-postman-test-generator) | Generate Postman collections and API tests from Swagger/OpenAPI with Codex, Claude, OpenAI or custom providers. | [npm](https://www.npmjs.com/package/openapi-postman-test-generator) |
-| [**ai-testcase-generator**](https://github.com/vannt-dev/ai-testcase-generator) | Turn requirements and user stories into ready-to-use Excel test suites for manual testers. | [Live demo](https://ai-testcase-gen.streamlit.app/) |
+| [**openapi-postman-test-generator**](https://github.com/vannt-dev/openapi-postman-test-generator) | Generate Postman collections and API tests from Swagger/OpenAPI with Codex, Claude, Antigravity, OpenAI or custom providers. | [npm](https://www.npmjs.com/package/openapi-postman-test-generator) |
+| [**ai-testcase-generator**](https://github.com/vannt-dev/ai-testcase-generator) | Turn requirements and user stories into ready-to-use Excel test suites, review existing suites for coverage gaps, write bug reports from rough notes, and generate Playwright web and API tests. | [Live demo](https://ai-testcase-gen.streamlit.app/) |
 
 ## 🛠 Developer tools & apps
 
-- [**repokeeper**](https://github.com/vannt-dev/repokeeper) — one CLI that keeps every repository on the same standard: Conventional Commits, git hooks, CI and release-please for 11 stacks (Node, Python, Dart, Go, Rust, Java, Kotlin, .NET, PHP, Ruby, shell/PowerShell), plus GitHub settings as code. [npm](https://www.npmjs.com/package/repokeeper)
+- [**repokeeper**](https://github.com/vannt-dev/repokeeper) — one CLI that keeps every repository on the same standard: Conventional Commits, git hooks, CI, releases and dependency updates for 11 stacks (Node, Python, Dart, Go, Rust, Java, Kotlin, .NET, PHP, Ruby, shell/PowerShell), on GitHub and GitLab, plus repository settings as code. [npm](https://www.npmjs.com/package/repokeeper) · [Playground](https://vannt-dev.github.io/repokeeper/)
 - [**Network Overrides**](https://github.com/vannt-dev/network-overrides-devtools) — mock API responses, inject headers and simulate failures inside Chrome DevTools. [Chrome Web Store](https://chromewebstore.google.com/detail/network-overrides-api-dev/holdjgmcnpelgclhopiejilhhkfcmpba)
 - [**Markdown to PDF**](https://github.com/vannt-dev/convert-md-to-pdf) — CLI and Chrome extension for styled PDFs with Mermaid, LaTeX and themes. [npm](https://www.npmjs.com/package/md-pdf-studio) · [Chrome Web Store](https://chromewebstore.google.com/detail/markdown-to-pdf-converter/djikikejkmkklfeklfmddaadilhahamj)
 - [**Region Snap**](https://github.com/vannt-dev/region-snap) — capture an exact region of a live page as a local PNG. [Chrome Web Store](https://chromewebstore.google.com/detail/region-snap-interactive-s/gdcpiocagphfbomdokhfomjnecnjfcon)
-- [**Dynamic Field Kit**](https://github.com/vannt-dev/dynamic-field-kit) — schema-driven dynamic form engine for React, Vue and Angular.
-- [**Aegis Net**](https://github.com/vannt-dev/aegis-net) — DNS privacy guard and ad blocker for Android & iOS (Flutter + Rust).
-- [**NimbleClip**](https://github.com/vannt-dev/nimbleclip) — cross-platform Flutter app for downloading public videos, pictures and audio from YouTube, TikTok, Facebook, Instagram, X and Threads.
+- [**Universal File Converter**](https://github.com/vannt-dev/browser-extension) — Chrome extension that converts images, documents, PDFs and structured data entirely in the browser, with offline OCR. [Releases](https://github.com/vannt-dev/browser-extension/releases)
+- [**Dynamic Field Kit**](https://github.com/vannt-dev/dynamic-field-kit) — schema-driven dynamic form engine for React, Vue, Angular and Svelte. [Docs](https://vannt-dev.github.io/dynamic-field-kit/) · [npm](https://www.npmjs.com/package/@dynamic-field-kit/core)
+- [**Aegis Net**](https://github.com/vannt-dev/aegis-net) — DNS privacy guard and ad blocker for Android & iOS (Flutter + Rust), with DNS over HTTPS, TLS and QUIC. [Releases](https://github.com/vannt-dev/aegis-net/releases)
+- [**NimbleClip**](https://github.com/vannt-dev/nimbleclip) — cross-platform Flutter app for downloading public videos, pictures and audio from YouTube, TikTok, Facebook, Instagram, X, Threads, Pinterest, SoundCloud and Flickr. [Releases](https://github.com/vannt-dev/nimbleclip/releases)
 
 ## Tech stack
 
