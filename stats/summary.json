@@ -1,5 +1,5 @@
 {
-  "total": 16282,
+  "total": 16302,
   "packages": [
     {
       "source": "npm",
@@ -28,6 +28,13 @@
       "total": 2914,
       "last30": 407,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
+    },
+    {
+      "source": "npm",
+      "name": "@dynamic-field-kit/svelte",
+      "total": 0,
+      "last30": 0,
+      "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
@@ -60,14 +67,14 @@
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 28,
+      "total": 38,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 33,
+      "total": 40,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -95,26 +102,33 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 5,
+      "total": 6,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
+    },
+    {
+      "source": "GitHub Releases",
+      "name": "browser-extension",
+      "total": 2,
+      "last30": null,
+      "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
   ],
   "chromeWebStore": [
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "101"
+      "users": "98"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "32"
+      "users": "39"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "1"
+      "users": "not shown yet"
     }
   ]
 }

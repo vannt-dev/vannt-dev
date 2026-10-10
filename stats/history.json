@@ -3899,7 +3899,8 @@
       "2026-10-08": 2,
       "2026-10-09": 0,
       "2026-10-10": 0
-    }
+    },
+    "@dynamic-field-kit/svelte": {}
   },
   "pypi": {
     "governed-agent-sdlc": {

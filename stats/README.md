@@ -1,8 +1,8 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-10 08:29 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-10 17:55 UTC.
 
-**Total downloads: 16,282** (npm + PyPI + GitHub release assets).
+**Total downloads: 16,302** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
@@ -14,12 +14,14 @@ Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last
 | [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 1,102 | 1,102 |
 | [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 641 | 641 |
 | [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 628 | 604 |
-| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 33 | — |
-| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 28 | — |
+| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 40 | — |
+| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 38 | — |
+| [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 6 | — |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 5 | — |
-| [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 5 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 4 | — |
 | [openapi-postman-test-generator](https://github.com/vannt-dev/openapi-postman-test-generator/releases) | GitHub Releases | 2 | — |
+| [browser-extension](https://github.com/vannt-dev/browser-extension/releases) | GitHub Releases | 2 | — |
+| [@dynamic-field-kit/svelte](https://www.npmjs.com/package/@dynamic-field-kit/svelte) | npm | 0 | 0 |
 
 ## Chrome Web Store
 
@@ -27,9 +29,9 @@ Weekly active users as shown on the store listing (not downloads, so not part of
 
 | Extension | Users |
 | --- | ---: |
-| [Network Overrides](https://chromewebstore.google.com/detail/holdjgmcnpelgclhopiejilhhkfcmpba) | 101 |
-| [Markdown to PDF](https://chromewebstore.google.com/detail/djikikejkmkklfeklfmddaadilhahamj) | 32 |
-| [Region Snap](https://chromewebstore.google.com/detail/gdcpiocagphfbomdokhfomjnecnjfcon) | 1 |
+| [Network Overrides](https://chromewebstore.google.com/detail/holdjgmcnpelgclhopiejilhhkfcmpba) | 98 |
+| [Markdown to PDF](https://chromewebstore.google.com/detail/djikikejkmkklfeklfmddaadilhahamj) | 39 |
+| [Region Snap](https://chromewebstore.google.com/detail/gdcpiocagphfbomdokhfomjnecnjfcon) | not shown yet |
 
 npm and PyPI counts include CI and mirror downloads. Their APIs keep 18 months and 180 days of data;
 `history.json` keeps every day once collected, so totals keep growing past those windows.
