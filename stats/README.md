@@ -1,6 +1,6 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-11 08:48 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-11 08:50 UTC.
 
 **Total downloads: 17,801** (npm + PyPI + GitHub release assets).
 
