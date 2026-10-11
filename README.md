@@ -23,6 +23,7 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 
 | Project | What it does | Get it |
 | --- | --- | --- |
+| [**openapi-drift**](https://github.com/vannt-dev/openapi-drift) | Keeps an OpenAPI document honest: reads the routes your NestJS or Express code declares, compares them with the document and fails the build on drift in either direction. CLI, library and GitHub Action; no AI, no build of your project. | [npm](https://www.npmjs.com/package/openapi-drift) · [Site](https://vannt-dev.github.io/openapi-drift/) · [Demo](https://github.com/vannt-dev/openapi-drift-demo) |
 | [**openapi-postman-test-generator**](https://github.com/vannt-dev/openapi-postman-test-generator) | Generate Postman collections and API tests from Swagger/OpenAPI with Codex, Claude, Antigravity, OpenAI or custom providers. | [npm](https://www.npmjs.com/package/openapi-postman-test-generator) |
 | [**ai-testcase-generator**](https://github.com/vannt-dev/ai-testcase-generator) | Turn requirements and user stories into ready-to-use Excel test suites, review existing suites for coverage gaps, write bug reports from rough notes, and generate Playwright web and API tests. | [Live demo](https://ai-testcase-gen.streamlit.app/) |
 

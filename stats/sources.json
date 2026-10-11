@@ -8,7 +8,8 @@
     "openapi-postman-test-generator",
     "md-pdf-studio",
     "repokeeper",
-    "aiws-factory"
+    "aiws-factory",
+    "openapi-drift"
   ],
   "pypi": [
     "governed-agent-sdlc"
