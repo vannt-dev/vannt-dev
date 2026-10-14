@@ -40,5 +40,16 @@
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp"
     }
-  ]
+  ],
+  "signingCertificates": [
+    {
+      "repo": "vannt-dev/nimbleclip",
+      "sha256": "28:10:81:41:25:ED:25:E1:82:F2:14:32:4C:93:90:A2:BE:73:46:33:55:63:38:D0:0E:F1:14:CF:CD:A2:A3:A6"
+    },
+    {
+      "repo": "vannt-dev/aegis-net",
+      "sha256": "70:E8:C2:76:6F:14:35:CE:64:06:70:2F:47:C2:63:F5:77:07:41:6E:96:48:F5:76:4B:55:9E:5B:5D:02:53:69"
+    }
+  ],
+  "otherListings": []
 }
