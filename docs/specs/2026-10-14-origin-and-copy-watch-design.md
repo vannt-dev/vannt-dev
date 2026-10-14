@@ -56,7 +56,8 @@ Date: 2026-10-14. Status: design approved in chat; this spec waits for review.
 - It says plainly: anything not listed here is not published by vannt-dev.
 - If the fetch fails, the page shows a link to `stats/sources.json` on GitHub instead of an
   empty list.
-- Linked from the footer of `index.html` and from the profile README.
+- Linked from the footer of `index.html`, the profile README, and one line near the top of the
+  README of the four extensions, NimbleClip and Aegis Net.
 
 ### 1.3 Build attestations for the four extensions
 
@@ -85,8 +86,9 @@ Date: 2026-10-14. Status: design approved in chat; this spec waits for review.
 - GitHub code searches, each with `-user:vannt-dev`:
   1. `"github.com/vannt-dev"`: package.json `repository`, manifest `homepage_url`, README links;
   2. `"vannt-dev" filename:LICENSE`;
-  3. each Chrome Web Store ID from `sources.json`;
-  4. after Phase 3: `"Copyright (c) vannt-dev"`.
+  3. each Chrome Web Store ID from `sources.json`.
+
+  The Phase 3 headers carry `github.com/vannt-dev/<repo>`, so query 1 also finds them.
 - Code search allows 10 requests a minute: requests are spaced, at most 100 results per query.
 - Hits are grouped by repository. A hit is new when its repository is in neither
   - `copy-watch/known.json`: kept by hand, `{ "repo", "reason" }`, seeded with
@@ -109,8 +111,9 @@ Date: 2026-10-14. Status: design approved in chat; this spec waits for review.
 ## Phase 3: per-file headers, pilot on the four extensions (A)
 
 - Each first-party JS, TS and CSS source file starts with
-  `/*! SPDX-License-Identifier: MIT | Copyright (c) <years> vannt-dev | github.com/vannt-dev/<repo> */`,
-  `<years>` taken from the repository's LICENSE.
+  `/*! SPDX-License-Identifier: MIT | Copyright (c) <year> <holder> | github.com/vannt-dev/<repo> */`,
+  with year and holder copied from the repository's LICENSE ("2026 Van Nguyen" in three of them,
+  "2026 vannt-dev" in region-snap, "2025 Van Nguyen" in network-overrides-devtools).
 - Left out: generated files, vendored code, build output, config files, tests.
 - `/*!` marks a legal comment that minifiers keep. Each bundler is checked and, where needed, set
   to keep legal comments (esbuild `legalComments`, terser `format.comments`):
