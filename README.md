@@ -7,6 +7,7 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 
 [![Total downloads](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvannt-dev%2Fvannt-dev%2Fmain%2Fstats%2Fbadge.json&label=total%20downloads)](https://github.com/vannt-dev/vannt-dev/blob/main/stats/README.md)
 · [download stats per package](https://github.com/vannt-dev/vannt-dev/blob/main/stats/README.md)
+· [official channels](https://vannt-dev.github.io/official.html): the only places my packages, extensions and apps are published
 
 ## 🤖 AI coding agents
 
