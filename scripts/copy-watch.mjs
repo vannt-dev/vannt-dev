@@ -47,6 +47,13 @@ export function issueBody(groups, date) {
   return lines.join("\n")
 }
 
+// GitHub answers code search from the Actions GITHUB_TOKEN with 429 on the first request
+export function refusalHint(path, status) {
+  return path.startsWith("/search/code") && [401, 403, 422, 429].includes(status)
+    ? " (code search refused this token: set the COPY_WATCH_TOKEN secret)"
+    : ""
+}
+
 async function gh(path, token, init = {}) {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(`https://api.github.com${path}`, {
@@ -63,11 +70,7 @@ async function gh(path, token, init = {}) {
       await new Promise((r) => setTimeout(r, 2000 * attempt))
       continue
     }
-    const hint =
-      path.startsWith("/search/code") && [401, 403, 422].includes(res.status)
-        ? " (code search refused this token: set the COPY_WATCH_TOKEN secret)"
-        : ""
-    throw new Error(`${path}: HTTP ${res.status}${hint}`)
+    throw new Error(`${path}: HTTP ${res.status}${refusalHint(path, res.status)}`)
   }
 }
 

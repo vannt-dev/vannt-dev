@@ -1,6 +1,6 @@
 import { test } from "node:test"
 import assert from "node:assert/strict"
-import { buildQueries, groupByRepo, newRepos, issueBody } from "./copy-watch.mjs"
+import { buildQueries, groupByRepo, newRepos, issueBody, refusalHint } from "./copy-watch.mjs"
 
 test("queries exclude the vannt-dev account and include each store ID", () => {
   const q = buildQueries({ chromeWebStore: [{ name: "X", id: "abc" }] })
@@ -30,4 +30,10 @@ test("issue body lists repository, query and paths", () => {
   const body = issueBody([{ repo: "e/f", query: "q", paths: [{ path: "p", url: "https://x" }] }], "2026-10-14")
   assert.match(body, /\[e\/f\]\(https:\/\/github.com\/e\/f\)/)
   assert.match(body, /\[p\]\(https:\/\/x\)/)
+})
+
+test("a refused or throttled code search points at COPY_WATCH_TOKEN", () => {
+  for (const status of [401, 403, 422, 429]) assert.match(refusalHint("/search/code?q=x", status), /COPY_WATCH_TOKEN/)
+  assert.equal(refusalHint("/search/code?q=x", 404), "")
+  assert.equal(refusalHint("/repos/vannt-dev/vannt-dev/issues", 403), "")
 })
