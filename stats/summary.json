@@ -1,5 +1,5 @@
 {
-  "total": 21161,
+  "total": 21310,
   "packages": [
     {
       "source": "npm",
@@ -74,14 +74,14 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 2371,
-      "last30": 2149,
+      "total": 2488,
+      "last30": 2236,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 55,
+      "total": 86,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
@@ -102,7 +102,7 @@
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 4,
+      "total": 5,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -132,17 +132,17 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "97"
+      "users": "104"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "39"
+      "users": "42"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "2"
+      "users": "3"
     },
     {
       "name": "Universal File Converter",
