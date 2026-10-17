@@ -1,11 +1,11 @@
 {
-  "total": 21310,
+  "total": 21413,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3844,
-      "last30": 757,
+      "last30": 755,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
@@ -40,7 +40,7 @@
       "source": "npm",
       "name": "openapi-postman-test-generator",
       "total": 811,
-      "last30": 765,
+      "last30": 762,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
@@ -74,21 +74,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 2488,
-      "last30": 2236,
+      "total": 2577,
+      "last30": 2313,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 86,
+      "total": 97,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 52,
+      "total": 54,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -123,7 +123,7 @@
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 6,
+      "total": 7,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -137,12 +137,12 @@
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "42"
+      "users": "41"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
