@@ -1,32 +1,32 @@
 {
-  "total": 22306,
+  "total": 22565,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3863,
-      "last30": 758,
+      "last30": 756,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
       "total": 3252,
-      "last30": 660,
+      "last30": 657,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
       "total": 2369,
-      "last30": 624,
+      "last30": 617,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 3212,
-      "last30": 656,
+      "last30": 652,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
@@ -74,21 +74,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 2701,
-      "last30": 2405,
+      "total": 2929,
+      "last30": 2620,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 103,
+      "total": 130,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 59,
+      "total": 62,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -102,7 +102,7 @@
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 5,
+      "total": 6,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -132,7 +132,7 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "105"
+      "users": "101"
     },
     {
       "name": "Markdown to PDF",
