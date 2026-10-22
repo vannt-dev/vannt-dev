@@ -1,11 +1,11 @@
 {
-  "total": 22565,
+  "total": 22648,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3863,
-      "last30": 756,
+      "last30": 755,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
@@ -19,14 +19,14 @@
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
       "total": 2369,
-      "last30": 617,
+      "last30": 616,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 3212,
-      "last30": 652,
+      "last30": 651,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
@@ -40,7 +40,7 @@
       "source": "npm",
       "name": "openapi-postman-test-generator",
       "total": 834,
-      "last30": 774,
+      "last30": 773,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
@@ -74,21 +74,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 2929,
-      "last30": 2620,
+      "total": 3002,
+      "last30": 2691,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 130,
+      "total": 138,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 62,
+      "total": 63,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -123,7 +123,7 @@
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 7,
+      "total": 8,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -137,12 +137,12 @@
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "43"
+      "users": "41"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "not shown yet"
+      "users": "3"
     },
     {
       "name": "Universal File Converter",
