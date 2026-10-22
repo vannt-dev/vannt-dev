@@ -9,7 +9,8 @@
     "md-pdf-studio",
     "repokeeper",
     "aiws-factory",
-    "openapi-drift"
+    "openapi-drift",
+    "mv3-remote-code-check"
   ],
   "pypi": [
     "governed-agent-sdlc"
