@@ -1,11 +1,11 @@
 {
-  "total": 22648,
+  "total": 22732,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3863,
-      "last30": 755,
+      "last30": 754,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
@@ -40,7 +40,7 @@
       "source": "npm",
       "name": "openapi-postman-test-generator",
       "total": 834,
-      "last30": 773,
+      "last30": 646,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
@@ -72,37 +72,44 @@
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
+      "source": "npm",
+      "name": "mv3-remote-code-check",
+      "total": 0,
+      "last30": 0,
+      "url": "https://www.npmjs.com/package/mv3-remote-code-check"
+    },
+    {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3002,
-      "last30": 2691,
+      "total": 3077,
+      "last30": 2550,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 138,
+      "total": 141,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 63,
+      "total": 64,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 5,
+      "total": 6,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 6,
+      "total": 7,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -116,14 +123,14 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 6,
+      "total": 7,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 8,
+      "total": 10,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -132,17 +139,17 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "101"
+      "users": "107"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "41"
+      "users": "44"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
