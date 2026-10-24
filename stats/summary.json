@@ -1,88 +1,88 @@
 {
-  "total": 22732,
+  "total": 23472,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3863,
-      "last30": 754,
+      "total": 3878,
+      "last30": 767,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 3252,
-      "last30": 657,
+      "total": 3267,
+      "last30": 671,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 2369,
-      "last30": 616,
+      "total": 2379,
+      "last30": 626,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 3212,
-      "last30": 651,
+      "total": 3229,
+      "last30": 668,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 460,
-      "last30": 460,
+      "total": 473,
+      "last30": 473,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 834,
-      "last30": 646,
+      "total": 840,
+      "last30": 627,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 880,
-      "last30": 880,
+      "total": 887,
+      "last30": 887,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 3418,
-      "last30": 3418,
+      "total": 3607,
+      "last30": 3607,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 806,
-      "last30": 806,
+      "total": 846,
+      "last30": 846,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 324,
-      "last30": 324,
+      "total": 334,
+      "last30": 334,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 0,
-      "last30": 0,
+      "total": 371,
+      "last30": 371,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3077,
-      "last30": 2550,
+      "total": 3124,
+      "last30": 2545,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -139,12 +139,12 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "107"
+      "users": "108"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "44"
+      "users": "46"
     },
     {
       "name": "Region Snap",
@@ -154,7 +154,7 @@
     {
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp",
-      "users": "not shown yet"
+      "users": "1"
     }
   ]
 }
