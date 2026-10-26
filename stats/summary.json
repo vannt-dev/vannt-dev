@@ -1,32 +1,32 @@
 {
-  "total": 23506,
+  "total": 23557,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
       "total": 3878,
-      "last30": 765,
+      "last30": 760,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
       "total": 3267,
-      "last30": 669,
+      "last30": 664,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
       "total": 2379,
-      "last30": 625,
+      "last30": 619,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 3229,
-      "last30": 667,
+      "last30": 662,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
@@ -40,14 +40,14 @@
       "source": "npm",
       "name": "openapi-postman-test-generator",
       "total": 840,
-      "last30": 497,
+      "last30": 464,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
       "total": 887,
-      "last30": 887,
+      "last30": 761,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
@@ -81,21 +81,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3158,
-      "last30": 2365,
+      "total": 3206,
+      "last30": 2359,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 141,
+      "total": 142,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 64,
+      "total": 66,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -139,7 +139,7 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "187"
+      "users": "371"
     },
     {
       "name": "Markdown to PDF",
@@ -149,7 +149,7 @@
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
