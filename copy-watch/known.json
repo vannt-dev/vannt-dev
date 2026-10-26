@@ -1,3 +1,7 @@
 [
-  { "repo": "szabgab/pydigger-data", "reason": "PyPI metadata index (found 14/10)" }
+  { "repo": "szabgab/pydigger-data", "reason": "PyPI metadata index (found 14/10)" },
+  {
+    "repo": "Vulnetix/advisory-database",
+    "reason": "Advisory database; automated false-positive malware flag on governed-agent-sdlc 0.7.0, withdrawn 25/10 (found 26/10)"
+  }
 ]
