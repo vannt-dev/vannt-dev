@@ -1,25 +1,25 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-26 07:47 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-10-27 07:51 UTC.
 
-**Total downloads: 23,557** (npm + PyPI + GitHub release assets).
+**Total downloads: 23,915** (npm + PyPI + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
-| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,878 | 760 |
-| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 3,607 | 3,607 |
-| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 3,267 | 664 |
-| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 3,229 | 662 |
-| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 3,206 | 2,359 |
-| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 2,379 | 619 |
-| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 887 | 761 |
-| [aiws-factory](https://www.npmjs.com/package/aiws-factory) | npm | 846 | 846 |
-| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 840 | 464 |
-| [@dynamic-field-kit/svelte](https://www.npmjs.com/package/@dynamic-field-kit/svelte) | npm | 473 | 473 |
-| [mv3-remote-code-check](https://www.npmjs.com/package/mv3-remote-code-check) | npm | 371 | 371 |
-| [openapi-drift](https://www.npmjs.com/package/openapi-drift) | npm | 334 | 334 |
-| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 142 | — |
-| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 66 | — |
+| [@dynamic-field-kit/core](https://www.npmjs.com/package/@dynamic-field-kit/core) | npm | 3,898 | 769 |
+| [repokeeper](https://www.npmjs.com/package/repokeeper) | npm | 3,671 | 3,671 |
+| [@dynamic-field-kit/react](https://www.npmjs.com/package/@dynamic-field-kit/react) | npm | 3,296 | 674 |
+| [@dynamic-field-kit/angular](https://www.npmjs.com/package/@dynamic-field-kit/angular) | npm | 3,266 | 676 |
+| [governed-agent-sdlc](https://pypi.org/project/governed-agent-sdlc/) | PyPI | 3,237 | 2,347 |
+| [@dynamic-field-kit/vue](https://www.npmjs.com/package/@dynamic-field-kit/vue) | npm | 2,395 | 623 |
+| [md-pdf-studio](https://www.npmjs.com/package/md-pdf-studio) | npm | 899 | 759 |
+| [aiws-factory](https://www.npmjs.com/package/aiws-factory) | npm | 867 | 867 |
+| [openapi-postman-test-generator](https://www.npmjs.com/package/openapi-postman-test-generator) | npm | 860 | 477 |
+| [@dynamic-field-kit/svelte](https://www.npmjs.com/package/@dynamic-field-kit/svelte) | npm | 490 | 490 |
+| [mv3-remote-code-check](https://www.npmjs.com/package/mv3-remote-code-check) | npm | 446 | 446 |
+| [openapi-drift](https://www.npmjs.com/package/openapi-drift) | npm | 344 | 344 |
+| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 144 | — |
+| [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 70 | — |
 | [browser-extension](https://github.com/vannt-dev/browser-extension/releases) | GitHub Releases | 10 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 7 | — |
 | [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 7 | — |
