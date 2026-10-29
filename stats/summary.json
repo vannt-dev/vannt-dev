@@ -1,94 +1,94 @@
 {
-  "total": 24258,
+  "total": 24539,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3899,
-      "last30": 763,
+      "total": 3907,
+      "last30": 770,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 3297,
-      "last30": 670,
+      "total": 3302,
+      "last30": 674,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 2396,
-      "last30": 619,
+      "total": 2401,
+      "last30": 623,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 3267,
-      "last30": 670,
+      "total": 3273,
+      "last30": 675,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 494,
-      "last30": 494,
+      "total": 500,
+      "last30": 500,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 866,
-      "last30": 476,
+      "total": 874,
+      "last30": 483,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 901,
-      "last30": 746,
+      "total": 908,
+      "last30": 597,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 3935,
-      "last30": 3035,
+      "total": 3946,
+      "last30": 2372,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 873,
-      "last30": 873,
+      "total": 883,
+      "last30": 883,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 350,
-      "last30": 350,
+      "total": 508,
+      "last30": 508,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 450,
-      "last30": 450,
+      "total": 451,
+      "last30": 451,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3279,
-      "last30": 2366,
+      "total": 3316,
+      "last30": 2386,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 147,
+      "total": 162,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
@@ -123,14 +123,14 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 7,
+      "total": 9,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 10,
+      "total": 12,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -139,22 +139,22 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "376"
+      "users": "380"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "42"
+      "users": "45"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp",
-      "users": "not shown yet"
+      "users": "2"
     }
   ]
 }
