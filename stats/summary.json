@@ -1,115 +1,115 @@
 {
-  "total": 24539,
+  "total": 26505,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 3907,
-      "last30": 770,
+      "total": 4107,
+      "last30": 970,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 3302,
-      "last30": 674,
+      "total": 3466,
+      "last30": 836,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 2401,
-      "last30": 623,
+      "total": 2561,
+      "last30": 783,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 3273,
-      "last30": 675,
+      "total": 3447,
+      "last30": 849,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 500,
-      "last30": 500,
+      "total": 650,
+      "last30": 650,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 874,
-      "last30": 483,
+      "total": 1044,
+      "last30": 470,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 908,
-      "last30": 597,
+      "total": 1076,
+      "last30": 746,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 3946,
-      "last30": 2372,
+      "total": 4108,
+      "last30": 2253,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 883,
-      "last30": 883,
+      "total": 1043,
+      "last30": 1043,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 508,
-      "last30": 508,
+      "total": 518,
+      "last30": 518,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 451,
-      "last30": 451,
+      "total": 602,
+      "last30": 602,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3316,
-      "last30": 2386,
+      "total": 3585,
+      "last30": 2633,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 162,
+      "total": 168,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 72,
+      "total": 73,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 6,
+      "total": 15,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 7,
+      "total": 8,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -123,14 +123,14 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 9,
+      "total": 19,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 12,
+      "total": 13,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -139,12 +139,12 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "380"
+      "users": "379"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "45"
+      "users": "47"
     },
     {
       "name": "Region Snap",
@@ -154,7 +154,7 @@
     {
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp",
-      "users": "2"
+      "users": "3"
     }
   ]
 }
