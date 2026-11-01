@@ -1,5 +1,5 @@
 {
-  "total": 27535,
+  "total": 27634,
   "packages": [
     {
       "source": "npm",
@@ -26,7 +26,7 @@
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
       "total": 3456,
-      "last30": 858,
+      "last30": 857,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
@@ -40,21 +40,21 @@
       "source": "npm",
       "name": "openapi-postman-test-generator",
       "total": 1066,
-      "last30": 487,
+      "last30": 477,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
       "total": 1224,
-      "last30": 891,
+      "last30": 879,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
       "total": 4276,
-      "last30": 2385,
+      "last30": 2069,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
@@ -81,21 +81,21 @@
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 3680,
-      "last30": 2705,
+      "total": 3703,
+      "last30": 2712,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 181,
+      "total": 239,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 157,
+      "total": 160,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
@@ -109,7 +109,7 @@
     {
       "source": "GitHub Releases",
       "name": "network-overrides-devtools",
-      "total": 22,
+      "total": 23,
       "last30": null,
       "url": "https://github.com/vannt-dev/network-overrides-devtools/releases"
     },
@@ -130,7 +130,7 @@
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 14,
+      "total": 28,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
@@ -139,12 +139,12 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "379"
+      "users": "304"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "47"
+      "users": "48"
     },
     {
       "name": "Region Snap",
@@ -154,7 +154,7 @@
     {
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp",
-      "users": "3"
+      "users": "2"
     }
   ]
 }
