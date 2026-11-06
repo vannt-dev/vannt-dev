@@ -10,7 +10,8 @@
     "repokeeper",
     "aiws-factory",
     "openapi-drift",
-    "mv3-remote-code-check"
+    "mv3-remote-code-check",
+    "reviewproof"
   ],
   "pypi": [
     "governed-agent-sdlc"
