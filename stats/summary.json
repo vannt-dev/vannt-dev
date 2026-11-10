@@ -1,101 +1,101 @@
 {
-  "total": 34290,
+  "total": 35337,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 4749,
-      "last30": 618,
+      "total": 4774,
+      "last30": 597,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 4020,
-      "last30": 532,
+      "total": 4045,
+      "last30": 512,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 3093,
-      "last30": 535,
+      "total": 3118,
+      "last30": 508,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 4016,
-      "last30": 580,
+      "total": 4046,
+      "last30": 567,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 873,
-      "last30": 514,
+      "total": 896,
+      "last30": 504,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 1322,
-      "last30": 690,
+      "total": 1365,
+      "last30": 583,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 1673,
-      "last30": 1003,
+      "total": 1896,
+      "last30": 1064,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 5438,
-      "last30": 2808,
+      "total": 5642,
+      "last30": 2526,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 1806,
-      "last30": 1806,
+      "total": 1877,
+      "last30": 1877,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 901,
-      "last30": 901,
+      "total": 924,
+      "last30": 924,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 1197,
-      "last30": 1197,
+      "total": 1205,
+      "last30": 1205,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "npm",
       "name": "reviewproof",
-      "total": 532,
-      "last30": 532,
+      "total": 858,
+      "last30": 858,
       "url": "https://www.npmjs.com/package/reviewproof"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 4063,
-      "last30": 2961,
+      "total": 4080,
+      "last30": 2969,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 338,
+      "total": 340,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
@@ -123,14 +123,14 @@
     {
       "source": "GitHub Releases",
       "name": "openapi-postman-test-generator",
-      "total": 3,
+      "total": 4,
       "last30": null,
       "url": "https://github.com/vannt-dev/openapi-postman-test-generator/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 21,
+      "total": 22,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     },
@@ -146,17 +146,17 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "131"
+      "users": "129"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "58"
+      "users": "60"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "3"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
