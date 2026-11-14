@@ -1,115 +1,115 @@
 {
-  "total": 36078,
+  "total": 36862,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 4788,
-      "last30": 404,
+      "total": 4790,
+      "last30": 406,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 4081,
-      "last30": 381,
+      "total": 4082,
+      "last30": 382,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 3134,
-      "last30": 355,
+      "total": 3136,
+      "last30": 357,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 4061,
-      "last30": 410,
+      "total": 4062,
+      "last30": 411,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 909,
-      "last30": 329,
+      "total": 910,
+      "last30": 330,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 1377,
-      "last30": 420,
+      "total": 1380,
+      "last30": 423,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 2112,
-      "last30": 1238,
+      "total": 2130,
+      "last30": 1256,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 5682,
-      "last30": 2302,
+      "total": 5699,
+      "last30": 2319,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 1905,
-      "last30": 1251,
+      "total": 1915,
+      "last30": 1261,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 947,
-      "last30": 548,
+      "total": 1094,
+      "last30": 695,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 1223,
-      "last30": 1223,
+      "total": 1228,
+      "last30": 1228,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "npm",
       "name": "reviewproof",
-      "total": 1051,
-      "last30": 1051,
+      "total": 1253,
+      "last30": 1253,
       "url": "https://www.npmjs.com/package/reviewproof"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 4163,
-      "last30": 1879,
+      "total": 4494,
+      "last30": 2123,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 358,
+      "total": 390,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 188,
+      "total": 192,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 19,
+      "total": 22,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
@@ -130,14 +130,14 @@
     {
       "source": "GitHub Releases",
       "name": "convert-md-to-pdf",
-      "total": 24,
+      "total": 26,
       "last30": null,
       "url": "https://github.com/vannt-dev/convert-md-to-pdf/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "browser-extension",
-      "total": 28,
+      "total": 31,
       "last30": null,
       "url": "https://github.com/vannt-dev/browser-extension/releases"
     }
