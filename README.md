@@ -42,6 +42,14 @@ orchestration and governance for coding agents, portable agent skills, and AI-po
 - [**Aegis Net**](https://github.com/vannt-dev/aegis-net) — DNS privacy guard and ad blocker for Android & iOS (Flutter + Rust), with DNS over HTTPS, TLS and QUIC; the log says why a domain was blocked, you can test a domain or allow it for a while, trackers hiding behind a site's own subdomain are blocked, and 30 days of history stay on the phone. [Releases](https://github.com/vannt-dev/aegis-net/releases)
 - [**NimbleClip**](https://github.com/vannt-dev/nimbleclip) — cross-platform Flutter app for downloading public videos, pictures and audio from YouTube, TikTok, Facebook, Instagram, X, Threads, Pinterest, SoundCloud and Flickr. [Releases](https://github.com/vannt-dev/nimbleclip/releases)
 
+## 🐛 Open issues
+
+People's open issues across my public repositories, refreshed every hour.
+
+<!-- open-issues:start -->
+No open issues right now.
+<!-- open-issues:end -->
+
 ## Tech stack
 
 **Languages & frameworks:** TypeScript · JavaScript · Python · Dart · React · Next.js · Node.js · NestJS · Flutter<br>
