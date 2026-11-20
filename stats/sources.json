@@ -11,7 +11,8 @@
     "aiws-factory",
     "openapi-drift",
     "mv3-remote-code-check",
-    "reviewproof"
+    "reviewproof",
+    "@vannt-dev/lane"
   ],
   "pypi": [
     "governed-agent-sdlc"
