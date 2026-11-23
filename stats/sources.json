@@ -24,7 +24,8 @@
     "vannt-dev/network-overrides-devtools",
     "vannt-dev/openapi-postman-test-generator",
     "vannt-dev/convert-md-to-pdf",
-    "vannt-dev/browser-extension"
+    "vannt-dev/browser-extension",
+    "vannt-dev/calmrun"
   ],
   "chromeWebStore": [
     {
