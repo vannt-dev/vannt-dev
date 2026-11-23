@@ -1,8 +1,8 @@
 # Download stats
 
-Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-11-23 10:45 UTC.
+Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: 2026-11-23 14:06 UTC.
 
-**Total downloads: 41,935** (npm + PyPI + GitHub release assets).
+**Total downloads: 41,945** (npm + PyPI + crates.io + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
@@ -19,15 +19,17 @@ Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last
 | [openapi-drift](https://www.npmjs.com/package/openapi-drift) | npm | 1,364 | 909 |
 | [mv3-remote-code-check](https://www.npmjs.com/package/mv3-remote-code-check) | npm | 1,262 | 850 |
 | [@dynamic-field-kit/svelte](https://www.npmjs.com/package/@dynamic-field-kit/svelte) | npm | 1,112 | 475 |
-| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 434 | — |
+| [aegis-net](https://github.com/vannt-dev/aegis-net/releases) | GitHub Releases | 436 | — |
 | [@vannt-dev/lane](https://www.npmjs.com/package/@vannt-dev/lane) | npm | 415 | 415 |
 | [nimbleclip](https://github.com/vannt-dev/nimbleclip/releases) | GitHub Releases | 229 | — |
-| [calmrun](https://github.com/vannt-dev/calmrun/releases) | GitHub Releases | 44 | — |
+| [calmrun](https://github.com/vannt-dev/calmrun/releases) | GitHub Releases | 45 | — |
 | [browser-extension](https://github.com/vannt-dev/browser-extension/releases) | GitHub Releases | 33 | — |
 | [network-overrides-devtools](https://github.com/vannt-dev/network-overrides-devtools/releases) | GitHub Releases | 31 | — |
 | [convert-md-to-pdf](https://github.com/vannt-dev/convert-md-to-pdf/releases) | GitHub Releases | 31 | — |
 | [region-snap](https://github.com/vannt-dev/region-snap/releases) | GitHub Releases | 22 | — |
+| [calmrun](https://crates.io/crates/calmrun) | crates.io | 7 | 7 |
 | [openapi-postman-test-generator](https://github.com/vannt-dev/openapi-postman-test-generator/releases) | GitHub Releases | 4 | — |
+| [calmrun](https://www.npmjs.com/package/calmrun) | npm | 0 | 0 |
 
 ## Chrome Web Store
 
@@ -40,5 +42,6 @@ Weekly active users as shown on the store listing (not downloads, so not part of
 | [Region Snap](https://chromewebstore.google.com/detail/gdcpiocagphfbomdokhfomjnecnjfcon) | not shown yet |
 | [Universal File Converter](https://chromewebstore.google.com/detail/bekbobpfdajniiiiadbpiedlbhccidnp) | 8 |
 
-npm and PyPI counts include CI and mirror downloads. Their APIs keep 18 months and 180 days of data;
+npm, PyPI and crates.io counts include CI and mirror downloads. Their APIs keep 18 months, 180 days and
+90 days of data;
 `history.json` keeps every day once collected, so totals keep growing past those windows.

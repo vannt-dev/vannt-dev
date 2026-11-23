@@ -1,5 +1,5 @@
 {
-  "total": 41935,
+  "total": 41945,
   "packages": [
     {
       "source": "npm",
@@ -93,6 +93,13 @@
       "url": "https://www.npmjs.com/package/@vannt-dev/lane"
     },
     {
+      "source": "npm",
+      "name": "calmrun",
+      "total": 0,
+      "last30": 0,
+      "url": "https://www.npmjs.com/package/calmrun"
+    },
+    {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
       "total": 5311,
@@ -100,9 +107,16 @@
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
+      "source": "crates.io",
+      "name": "calmrun",
+      "total": 7,
+      "last30": 7,
+      "url": "https://crates.io/crates/calmrun"
+    },
+    {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 434,
+      "total": 436,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
@@ -151,7 +165,7 @@
     {
       "source": "GitHub Releases",
       "name": "calmrun",
-      "total": 44,
+      "total": 45,
       "last30": null,
       "url": "https://github.com/vannt-dev/calmrun/releases"
     }
