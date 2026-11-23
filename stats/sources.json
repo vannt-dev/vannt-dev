@@ -12,10 +12,14 @@
     "openapi-drift",
     "mv3-remote-code-check",
     "reviewproof",
-    "@vannt-dev/lane"
+    "@vannt-dev/lane",
+    "calmrun"
   ],
   "pypi": [
     "governed-agent-sdlc"
+  ],
+  "crates": [
+    "calmrun"
   ],
   "githubReleases": [
     "vannt-dev/aegis-net",

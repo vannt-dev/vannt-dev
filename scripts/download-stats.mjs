@@ -1,6 +1,6 @@
 // Collects download counts for published packages and writes:
-//   stats/history.json  - daily npm/PyPI counts, merged on every run so history outlives the
-//                         registries' windows (npm: 18 months, pypistats: 180 days)
+//   stats/history.json  - daily npm/PyPI/crates.io counts, merged on every run so history outlives the
+//                         registries' windows (npm: 18 months, pypistats: 180 days, crates.io: 90 days)
 //   stats/summary.json  - per-source totals
 //   stats/badge.json    - shields.io endpoint badge with the combined total
 //   stats/README.md     - human-readable table
@@ -11,6 +11,7 @@ const dir = new URL("../stats/", import.meta.url)
 const sources = JSON.parse(readFileSync(new URL("sources.json", dir), "utf8"))
 const historyFile = new URL("history.json", dir)
 const history = existsSync(historyFile) ? JSON.parse(readFileSync(historyFile, "utf8")) : { npm: {}, pypi: {} }
+history.crates ??= {}
 
 const day = (d) => d.toISOString().slice(0, 10)
 const today = new Date()
@@ -51,6 +52,19 @@ for (const name of sources.pypi) {
   merge(history.pypi, name, (data?.data ?? []).filter((d) => d.category === "with_mirrors").map((d) => [d.date, d.downloads]))
 }
 
+// crates.io: daily counts per version for 90 days, plus a cumulative total per crate. Its crawler
+// policy asks for a User-Agent that says who is asking.
+const cratesAgent = { "user-agent": "vannt-dev-download-stats (https://github.com/vannt-dev/vannt-dev)" }
+const crateTotals = {}
+for (const name of sources.crates ?? []) {
+  const crate = await getJson(`https://crates.io/api/v1/crates/${name}`, cratesAgent, true)
+  crateTotals[name] = crate?.crate?.downloads ?? 0
+  const data = await getJson(`https://crates.io/api/v1/crates/${name}/downloads`, cratesAgent, true)
+  const perDay = {}
+  for (const d of [...(data?.version_downloads ?? []), ...(data?.meta?.extra_downloads ?? [])]) perDay[d.date] = (perDay[d.date] ?? 0) + d.downloads
+  merge(history.crates, name, Object.entries(perDay))
+}
+
 // GitHub Releases: asset counters are cumulative, so no history is needed.
 const auth = process.env.GITHUB_TOKEN ? { authorization: `Bearer ${process.env.GITHUB_TOKEN}` } : {}
 const releases = []
@@ -80,6 +94,7 @@ for (const ext of sources.chromeWebStore) {
 const rows = [
   ...sources.npm.map((name) => ({ source: "npm", name, total: sum(history.npm[name]), last30: sum(history.npm[name], since30), url: `https://www.npmjs.com/package/${name}` })),
   ...sources.pypi.map((name) => ({ source: "PyPI", name, total: sum(history.pypi[name]), last30: sum(history.pypi[name], since30), url: `https://pypi.org/project/${name}/` })),
+  ...(sources.crates ?? []).map((name) => ({ source: "crates.io", name, total: Math.max(crateTotals[name], sum(history.crates[name])), last30: sum(history.crates[name], since30), url: `https://crates.io/crates/${name}` })),
   ...releases.map((r) => ({ source: "GitHub Releases", name: r.name.split("/")[1], total: r.total, last30: null, url: `https://github.com/${r.name}/releases` })),
 ]
 const total = rows.reduce((n, r) => n + r.total, 0)
@@ -101,7 +116,7 @@ writeFileSync(
 
 Updated daily by [download-stats](../.github/workflows/download-stats.yml). Last run: ${updated}.
 
-**Total downloads: ${total.toLocaleString("en-US")}** (npm + PyPI + GitHub release assets).
+**Total downloads: ${total.toLocaleString("en-US")}** (npm + PyPI + crates.io + GitHub release assets).
 
 | Package | Source | Total | Last 30 days |
 | --- | --- | ---: | ---: |
@@ -115,7 +130,8 @@ Weekly active users as shown on the store listing (not downloads, so not part of
 | --- | ---: |
 ${chromeTable.join("\n")}
 
-npm and PyPI counts include CI and mirror downloads. Their APIs keep 18 months and 180 days of data;
+npm, PyPI and crates.io counts include CI and mirror downloads. Their APIs keep 18 months, 180 days and
+90 days of data;
 \`history.json\` keeps every day once collected, so totals keep growing past those windows.
 `,
 )
