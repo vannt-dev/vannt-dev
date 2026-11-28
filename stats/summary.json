@@ -1,109 +1,109 @@
 {
-  "total": 49628,
+  "total": 50281,
   "packages": [
     {
       "source": "npm",
       "name": "@dynamic-field-kit/core",
-      "total": 5462,
-      "last30": 929,
+      "total": 5527,
+      "last30": 794,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/core"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/react",
-      "total": 4692,
-      "last30": 858,
+      "total": 4717,
+      "last30": 719,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/react"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/vue",
-      "total": 3689,
-      "last30": 777,
+      "total": 3737,
+      "last30": 665,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/vue"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/angular",
-      "total": 4789,
-      "last30": 931,
+      "total": 4815,
+      "last30": 783,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/angular"
     },
     {
       "source": "npm",
       "name": "@dynamic-field-kit/svelte",
-      "total": 1442,
-      "last30": 770,
+      "total": 1473,
+      "last30": 651,
       "url": "https://www.npmjs.com/package/@dynamic-field-kit/svelte"
     },
     {
       "source": "npm",
       "name": "openapi-postman-test-generator",
-      "total": 2093,
-      "last30": 747,
+      "total": 2120,
+      "last30": 604,
       "url": "https://www.npmjs.com/package/openapi-postman-test-generator"
     },
     {
       "source": "npm",
       "name": "md-pdf-studio",
-      "total": 3167,
-      "last30": 2225,
+      "total": 3214,
+      "last30": 2104,
       "url": "https://www.npmjs.com/package/md-pdf-studio"
     },
     {
       "source": "npm",
       "name": "repokeeper",
-      "total": 6254,
-      "last30": 1955,
+      "total": 6333,
+      "last30": 1872,
       "url": "https://www.npmjs.com/package/repokeeper"
     },
     {
       "source": "npm",
       "name": "aiws-factory",
-      "total": 2913,
-      "last30": 1783,
+      "total": 2950,
+      "last30": 1660,
       "url": "https://www.npmjs.com/package/aiws-factory"
     },
     {
       "source": "npm",
       "name": "openapi-drift",
-      "total": 1697,
-      "last30": 1066,
+      "total": 1718,
+      "last30": 1077,
       "url": "https://www.npmjs.com/package/openapi-drift"
     },
     {
       "source": "npm",
       "name": "mv3-remote-code-check",
-      "total": 1466,
-      "last30": 1015,
+      "total": 1479,
+      "last30": 877,
       "url": "https://www.npmjs.com/package/mv3-remote-code-check"
     },
     {
       "source": "npm",
       "name": "reviewproof",
-      "total": 2049,
-      "last30": 2049,
+      "total": 2069,
+      "last30": 2069,
       "url": "https://www.npmjs.com/package/reviewproof"
     },
     {
       "source": "npm",
       "name": "@vannt-dev/lane",
-      "total": 927,
-      "last30": 927,
+      "total": 971,
+      "last30": 971,
       "url": "https://www.npmjs.com/package/@vannt-dev/lane"
     },
     {
       "source": "npm",
       "name": "calmrun",
-      "total": 1575,
-      "last30": 1575,
+      "total": 1622,
+      "last30": 1622,
       "url": "https://www.npmjs.com/package/calmrun"
     },
     {
       "source": "PyPI",
       "name": "governed-agent-sdlc",
-      "total": 6195,
-      "last30": 2916,
+      "total": 6262,
+      "last30": 2946,
       "url": "https://pypi.org/project/governed-agent-sdlc/"
     },
     {
@@ -116,21 +116,21 @@
     {
       "source": "GitHub Releases",
       "name": "aegis-net",
-      "total": 539,
+      "total": 564,
       "last30": null,
       "url": "https://github.com/vannt-dev/aegis-net/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "nimbleclip",
-      "total": 244,
+      "total": 262,
       "last30": null,
       "url": "https://github.com/vannt-dev/nimbleclip/releases"
     },
     {
       "source": "GitHub Releases",
       "name": "region-snap",
-      "total": 32,
+      "total": 35,
       "last30": null,
       "url": "https://github.com/vannt-dev/region-snap/releases"
     },
@@ -165,7 +165,7 @@
     {
       "source": "GitHub Releases",
       "name": "calmrun",
-      "total": 224,
+      "total": 234,
       "last30": null,
       "url": "https://github.com/vannt-dev/calmrun/releases"
     }
@@ -174,22 +174,22 @@
     {
       "name": "Network Overrides",
       "id": "holdjgmcnpelgclhopiejilhhkfcmpba",
-      "users": "n/a"
+      "users": "150"
     },
     {
       "name": "Markdown to PDF",
       "id": "djikikejkmkklfeklfmddaadilhahamj",
-      "users": "n/a"
+      "users": "63"
     },
     {
       "name": "Region Snap",
       "id": "gdcpiocagphfbomdokhfomjnecnjfcon",
-      "users": "n/a"
+      "users": "not shown yet"
     },
     {
       "name": "Universal File Converter",
       "id": "bekbobpfdajniiiiadbpiedlbhccidnp",
-      "users": "n/a"
+      "users": "not shown yet"
     }
   ]
 }
